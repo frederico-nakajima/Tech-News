@@ -268,3 +268,8 @@ header.container{
 nav.container{
   margin-bottom: 40px;
 }
+.first-photo-section{  
+  font-size: 24px; 
+  font-weight: 800;
+  line-height: 135%; /* 32.4px */
+}
